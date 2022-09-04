@@ -20,7 +20,7 @@ def main():
     Query.check_before_run()
 
     ####### 运行任务
-    Web.run()
+    # Web.run()
     Cdn.run()
     User.run()
     Query.run()
